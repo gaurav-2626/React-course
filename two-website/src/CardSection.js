@@ -20,8 +20,7 @@ const CardSection = () => {
           </div>
         </div>
       </div>
-    </section>
-    )
+    </section>)
 }
 
 export default CardSection;
