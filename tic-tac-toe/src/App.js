@@ -2,6 +2,8 @@ import React,{useState} from 'react';
 import logo from './logo.svg';
 import Icon from './components/Icons.js'
 
+
+//important packages toast , reactstrap , icons
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -13,6 +15,7 @@ import { FaCentercode } from 'react-icons/fa';
 
 const itemArray = new Array(9).fill("empty")
 
+//understand the app function very important
 const App = () => {
 
   const [isCross,setIsCross] = useState(false)
