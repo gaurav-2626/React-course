@@ -1,6 +1,16 @@
+### This repository focuses on Understanding the concept of 
+### Context
+### Provider
+### consumer
+
+### Read the problem.js to understand the problem.
+### Then check the files context.js,provider.js,consumer.js
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 
